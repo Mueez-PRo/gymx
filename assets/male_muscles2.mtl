@@ -1,0 +1,10 @@
+# male_muscles2
+# Created 10/31/24 by mueezrana
+newmtl male_muscles2
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+d 1.0
+illum 2
+map_Kd texturecolormap2.jpg
+map_Kd texturenormalmap2.jpg
